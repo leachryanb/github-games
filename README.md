@@ -11,5 +11,7 @@ Here is how you play the game:
 4. Don't let the pieces stack up too high!
 
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
+added by kamlesh
 
 This fun open source game was cloned from: https://github.com/jakesgordon/javascript-tetris
+
